@@ -1,4 +1,3 @@
 # devopsgit
-my first repository.
-
-Learning git
+my first repo
+to practise devops
