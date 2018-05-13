@@ -1,2 +1,4 @@
 # devopsgit
-my first replo
+my first repository.
+
+Learning git
