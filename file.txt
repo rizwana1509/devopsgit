@@ -1,3 +1,2 @@
 testing file
-
-testing conflicts
+testing git
