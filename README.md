@@ -1,2 +1,3 @@
 # devopsgit
-my first replo
+my first repo
+to practise devops
